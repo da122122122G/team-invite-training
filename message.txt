@@ -1,2 +1,4 @@
 Hello
 Hello from A <- 追加
+
+FromC
